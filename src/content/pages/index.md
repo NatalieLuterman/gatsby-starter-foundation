@@ -22,6 +22,7 @@ What I Do?
 - Write Copy
 - Develop Email Strategy
 - Testing to see if this works
+- Testing to see if this works, pt. 2
     
 What Industries do I cover?
 
