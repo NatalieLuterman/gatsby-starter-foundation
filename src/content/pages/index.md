@@ -21,6 +21,7 @@ What I Do?
 - Create Designs
 - Write Copy
 - Develop Email Strategy
+- Testing to see if this works
     
 What Industries do I cover?
 
